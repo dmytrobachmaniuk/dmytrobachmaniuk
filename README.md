@@ -23,7 +23,6 @@ I enjoy building modern, responsive web applications and improving my skills in 
 * HTML5 / CSS3
 * SCSS (BEM)
 * React Router
-* i18next
 * Git / GitHub
 * Figma
 
@@ -52,9 +51,9 @@ https://github.com/dmytrobachmaniuk/central-project
 ## 📈 Currently Learning
 
 * Advanced React patterns
-* TypeScript
 * Performance optimization
 * API integration best practices
+* Prompt engineering
 
 ---
 
